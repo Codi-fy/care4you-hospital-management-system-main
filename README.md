@@ -4,16 +4,12 @@ This is a hospital management system web app to manage, monitor and control the 
 2) For patient
 3) For doctors
 
-
-### Live link: 
-http://care4you.42web.io/
-
 # Screenshots:
 ## Home page:
-![image](https://github.com/Codi-fy/care4you-hospital-management-system/assets/89330067/175e2437-c81a-4920-bef3-4eba5b7449c1)
+![image](https://github.com/Arnab-Saha-2506/care4you-hospital-management-system/assets/89330067/175e2437-c81a-4920-bef3-4eba5b7449c1)
 
 ## Login Page:
-![image](https://github.com/Codi-fy/care4you-hospital-management-system/assets/89330067/72f6f85f-f885-4518-bc90-96ae74c852fd) ![image](https://github.com/Codi-fy/care4you-hospital-management-system/assets/89330067/bc1a5efc-572e-4494-9166-31ff0b04fb29)
+![image](https://github.com/Arnab-Saha-2506/care4you-hospital-management-system/assets/89330067/72f6f85f-f885-4518-bc90-96ae74c852fd) ![image](https://github.com/Arnab-Saha-2506/care4you-hospital-management-system/assets/89330067/bc1a5efc-572e-4494-9166-31ff0b04fb29)
 
 # Features:
 ## Admin:
